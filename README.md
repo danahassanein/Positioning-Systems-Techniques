@@ -1,5 +1,5 @@
 # Positioning-Systems-Techniques
-### Implementing indoor positioning systems tequniques such as N-Lateration, Static-Fingerprint, and Mobility Prediction with HMM.
+#### Implementing indoor positioning systems tequniques such as N-Lateration, Static-Fingerprint, and Mobility Prediction with HMM.
 
 ## N-Lateration:
 The objective is to conceive and implement, with the language of your choice, the basic N-lateration algorithm. In this directed work, I will propose a global architecture view of an indoor positioning scenario involving N=4 Access Points and an object/human identified as a Mobile Object (Terminal). 2 approaches based, either on model propagation, or Time of Fligth, provide distances between Emitters and Receivers.
